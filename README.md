@@ -6,4 +6,4 @@
 
 Привіт! Я студент ХНТУ, навчаюсь за спеціальністю інженер програмного забезпечення. Зараз вивчаю основи С та Bash.  
 <ivelov.vlad1@gmail.com>  
-https://github.com/ivelov
+<https://github.com/ivelov>
