@@ -1,7 +1,7 @@
 # Івелов Владислав
 ## Студент
-<img src="face.jpg" alt="face" height="400" weight="200"/>
+<div><img src="face.jpg" alt="face" height="400" weight="200"/><div align="right"><h1>first</h1></div></div>
 
 ***
 
-Привіт
+Привіт! Я студент ХНТУ, навчаюсь за спеціальністю інженер програмного забезпечення
